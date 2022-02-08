@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+body ul{
+list-style: none;
+display: flex;
+justify-content: space-evenly;
+padding-left: 100px;
+margin: 0px;
+}
+header{
+    padding-top: 50px;
+}
+p{
+    font-size: 13px;
+    color: rgb(54, 52, 52);
+}
+.simcard{
+padding-left: 20px;
+width: 300px;
+height: 270px;
+}
+#tag{
+    width: 300px;
+    height: 50px;
+    color: brown;
+    border-radius: 10px;
+    justify-content: space-around;
+}
+.texts{
+    font-family: poppins;
+    display: flex;
+    color: rgb(55, 58, 55);
+}
+.cardnumber{
+    display: flex;
+    align-items:flex-start;
+}
+.expiry{
+    display: flex;
+ width: 200px;
+    justify-content: space-between;
+}
+#gateway{
+    align-items: center;
+    padding-left: 600px;
+}
+.cards{
+    justify-content: space-evenly;
+    display: flex;
+    width: 500px;
+    padding-left: 500px;
+    height: 200px;
+    
+}
+.mainsection{
+    display: flex;
+    width: 350px;
+    background-image: linear-gradient(to right, #ff4f84 20%, #844fff);
+    border-radius: 10px;
+}
+button{
+    width: 350px;
+    height: 70px;
+    border-color: darkblue;
+    background-color: rgb(18, 44, 128);
+    color: #fff;
+    border-radius: 10px;
+}
