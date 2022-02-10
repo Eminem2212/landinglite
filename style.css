@@ -74,3 +74,29 @@ button{
     padding-left: 500px;
 
 }
+.subtotal{
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subtotal2{
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subtotal3{
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.subtotal4{
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.complete{
+    width: 280px;
+    padding-left: 30px;
+}
