@@ -17,7 +17,7 @@ p{
 }
 .simcard{
 padding-left: 20px;
-width: 300px;
+width: 500px;
 height: 270px;
 }
 #tag{
@@ -48,22 +48,29 @@ height: 270px;
 .cards{
     justify-content: space-evenly;
     display: flex;
-    width: 500px;
+    width: 700px;
     padding-left: 500px;
     height: 200px;
+
     
 }
 .mainsection{
     display: flex;
-    width: 350px;
+    width: 500px;
     background-image: linear-gradient(to right, #ff4f84 20%, #844fff);
     border-radius: 10px;
+    height: 280px;
 }
 button{
-    width: 350px;
+    width: 700px;
     height: 70px;
     border-color: darkblue;
-    background-color: rgb(18, 44, 128);
+    background-color: rgb(34, 66, 172);
     color: #fff;
     border-radius: 10px;
+    padding-left: 100px;
+}
+.btn{
+    padding-left: 500px;
+
 }
